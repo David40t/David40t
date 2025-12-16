@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**David40t/David40t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: **Ingeniero de sistemas en la universidad Uniminuto.**
 
-Here are some ideas to get you started:
+:pencil": **Estudiante activo.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:oncoming_automobile: **Amante a los vehiculos.**
+
+### Contacto
+
+![GitHub](https://img.shields.io/badge/github.com/David40t-up-green?style=for-the-badge)
+
+![Linkedin](https://img.shields.io/badge/linkedin.com/in/david--torres--nova-blue?style=for-the-badge)
+
+![Email](https://img.shields.io/badge/felipet.ft40@gmail.com-blue?style=for-the-badge)
+
