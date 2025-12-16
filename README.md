@@ -2,7 +2,7 @@
 
 :computer: **Ingeniero de sistemas en la universidad Uniminuto.**
 
-:pencil": **Estudiante activo.**
+:pencil: **Estudiante activo.**
 
 :oncoming_automobile: **Amante a los vehiculos.**
 
